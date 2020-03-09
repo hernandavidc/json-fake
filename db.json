@@ -22,7 +22,7 @@
     },
     "header": {
         "title": "índice temático",
-        "uAreHere": ["01 Evaluación de riesgos laborales", "riegos biomecanicos o ergonomicos"]
+        "uAreHere": ["01 Evaluación de riesgos laborales", "Evaluación de riesgos laborales"]
     },
     "content": {
         "type": "content1TextImage",
@@ -33,9 +33,5 @@
                 "alt": "Esto es el alt de la imagen"
             }
         }
-    },
-    "steps": {
-        "back": "#back",
-        "next": "#next"
     }
 }
